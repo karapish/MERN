@@ -1,0 +1,12 @@
+.navbar {
+  justify-content: space-between;
+  align-self: auto;
+  background-color: cornflowerblue;
+}
+.link {
+  color: peachpuff;
+}
+.link:hover {
+  text-decoration: none;
+  color: greenyellow;
+}
